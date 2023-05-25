@@ -11,7 +11,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=renataprogramadora&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=FF1493&text_color=F0F8FF&bg_color=0d1117" alt="Renata Neves github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RenataNeves&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=FF1493&text_color=F0F8FF&bg_color=0d1117" alt="Renata Neves github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataprogramadora&layout=compact&hide_border=true&title_color=FFF5EE&text_color=FFF5EE&bg_color=0d1117" />
 </div>
 
